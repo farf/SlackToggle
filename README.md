@@ -6,11 +6,12 @@ This Chrome extension allows you to collapse some channels in Slack, so that you
 
 ## Installation
 
-Clone or download this repository
-Open a tab to chrome://extensions/
-Click "Load unpackaged extension". Navigate to the directory where this repository is located.
-Open Slack and voila !
+ - Clone or download this repository
+ - Open a tab to chrome://extensions/
+ - Click "Load unpackaged extension".
+ - Navigate to the directory where this repository is located.
+ - Open Slack and voila !
 
 ## Usage
 
-Just click the +/- buttons next to the section title to collapse or expand a section.
+Just click the +/- buttons next to the section title to collapse or expand a section. I know, the button is tiny so don't miss !
