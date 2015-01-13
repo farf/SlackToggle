@@ -2,7 +2,7 @@
 
 This Chrome extension allows you to collapse some channels in Slack, so that you can hide your starred discussions, the channels, the direct messages or the private groups if you don't want them to eat up too much space. 
 
-![](slacktoggle_screen.png)
+![](pictures/slacktoggle_screen.png)
 
 ## Installation
 
