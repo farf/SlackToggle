@@ -1,7 +1,7 @@
 {
   "name": "Slack Toggle",
   "description": "Adds the possibility to toggle the display of a section in slack",
-  "version": "0.1",
+  "version": "1.0",
   "permissions": ["tabs", "http://*.slack.com/", "https://*.slack.com/"],
   "content_scripts": [
     {
