@@ -8,6 +8,7 @@ This Chrome extension allows you to collapse some channels in Slack, so that you
 
  - Clone or download this repository
  - Open a tab to chrome://extensions/
+ - Tick the "developper mode" checkbox
  - Click "Load unpackaged extension".
  - Navigate to the directory where this repository is located.
  - Open Slack and voila !
